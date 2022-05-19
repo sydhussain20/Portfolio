@@ -1,0 +1,50 @@
+hr{
+    color: 8CC0DE;
+    width: 95%;
+    height: 20%;
+}
+body{
+    background-color: #B7E5DD;
+}
+.img-profile{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;   
+}
+.table{
+    align-items:center;
+}
+.logo{
+    border-radius: 100%;
+    height: 100px;
+    width: 100px;
+}
+.table-profile{
+    vertical-align:top;
+}
+.table-text{
+    text-align: end;
+}
+.maintable{
+    width: 100%;
+}
+.h1{
+    text-align: center;
+}
+h1:hover{
+    color:blue;
+    font-size: 50px;
+}
+.h{
+    font-size: smaller;
+}
+img:hover{
+    width: 200px;
+    height: 200px;
+}
+.a{
+    text-align: center;
+}
+.formtable{
+    vertical-align:middle;
+}
